@@ -1,5 +1,5 @@
-SRC_DIR := src
-OBJ_DIR := obj
+SRC_DIR := .
+OBJ_DIR := include
 
 CC := g++
 EXE := output

@@ -17,5 +17,5 @@ using namespace std;
 
 int main(void){
 	funct();
-	// cout << "hello world\n";
 }
+
